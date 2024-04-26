@@ -2,20 +2,18 @@
   "name": "react-hooks-component-props-mini-project",
   "version": "0.1.0",
   "private": true,
-  "jest": {
-    "transform": {
-      "^.+\\.js$": "babel-jest"    }
-  },
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
+    "@eslint/js": "^9.1.1",
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "eslint": "^8.57.0",
     "mocha": "^8.2.1"
   },
   "scripts": {
